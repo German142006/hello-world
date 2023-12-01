@@ -1,0 +1,34 @@
+body::first-line {
+  background: url(https://html5book.ru/wp-content/uploads/2015/07/background39.png);
+}
+.floating-button {
+  text-decoration: none;
+  display: inline-block;
+  width: 600px;
+  height: 150px;
+  line-height: 45px;
+  border-radius: 45px;
+  margin: 10px 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 3px;
+  font-weight: 600;
+  color: #524f4e;
+  background: white;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, .1);
+  transition: .3s;
+  margin-top: 400px;
+  margin-left: 500px;
+  padding-top: 100px;
+}
+.floating-button:hover {
+  background: radial-gradient(circle at -14.09% 20.12%, #a1dedd 0, #a0dee2 3.57%, #a0dde6 7.14%, #a2dcea 10.71%, #a4dcee 14.29%, #a7dbf1 17.86%, #abd9f4 21.43%, #afd8f6 25%, #b5d7f7 28.57%, #bad5f8 32.14%, #c1d4f8 35.71%, #c7d2f8 39.29%, #cdd0f6 42.86%, #d4cff5 46.43%, #dacdf2 50%, #e0cbef 53.57%, #e5caeb 57.14%, #eac9e7 60.71%, #efc8e3 64.29%, #f2c7de 67.86%, #f6c6d9 71.43%, #f8c6d4 75%, #fac6cf 78.57%, #fbc6cb 82.14%, #fbc6c6 85.71%, #fac7c1 89.29%, #f9c8bd 92.86%, #f7c9b9 96.43%, #f5cab6 100%); 
+  box-shadow: 0 15px 20px rgba(46, 229, 157, .4);
+  color: white;
+  transform: translateY(-7px);
+}
+body{
+  background: gray;
+}

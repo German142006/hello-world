@@ -1,0 +1,42 @@
+.wrapper {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+img {
+  float: left;
+  margin-right: 20px;
+  width: 300px;
+  height: auto;
+}
+
+p {
+  text-align: justify;
+}
+body{
+  margin-top: 200px;
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<title></title>
+</head>
+<body>
+	
+<div class="wrapper">
+  <img src="https://example.com/image.jpg" alt="example image">
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fringilla bibendum risus, eu pulvinar quam suscipit at. Mauris ultricies placerat convallis.</p>
+</div>
+	
+
+
+
+
+
+</body>
+</html>

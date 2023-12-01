@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Страница регистрации</title>
+  </head>
+  <body>
+
+    <h1>____________Sing Up_____________</h1>
+    <form>
+      <label for="username">Имя пользователя:</label>
+      <input type="text" id="username" name="username" required>
+       
+       <div class="start">
+      <label for="start">Дата:</label>
+    </div>
+
+
+
+       <div class="date">
+         <input type="date" id="start" name="trip-start"
+       value="2018-07-22"
+       min="2018-01-01" max="2018-12-31">
+
+       </div>
+
+
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required>
+
+      <label for="password">Пароль:</label>
+      <input type="password" id="password" name="password" minlength="8" required>
+
+      <label for="confirm-password">Подтверждение пароля:</label>
+      <input type="password" id="confirm-password" name="confirm-password" minlength="8" required>
+
+      <input type="submit" value="Зарегистрироваться">
+    </form>
+  </body>
+</html>

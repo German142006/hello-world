@@ -1,0 +1,47 @@
+.ing{
+	color: white;
+	text-align: center;
+    background:linear-gradient(grey,rgb(31,32,33));
+    font-size:25px;
+
+}
+
+.ter{
+
+	font-size:20px;
+	font-family:revert;
+	 background:linear-gradient(white,rgb(31,32,33));
+
+
+    
+
+}
+
+body{
+	background:linear-gradient(90deg,#E3535D,#2AA5A0);
+}
+
+.pon{
+	color: white;
+	font-size: 25px;
+
+}
+
+	
+
+  button{
+	color: white;
+	font-size: 20px;
+	background-image: radial-gradient(circle at -7.92% 90.56%, #fe676c 0, #fc5a70 16.67%, #f84c74 33.33%, #f23c78 50%, #eb2a7d 66.67%, #e31684 83.33%, #db008b 100%);
+	margin: 0 auto;
+	display: block;
+	border: 0;
+
+}
+
+
+
+
+
+
+	

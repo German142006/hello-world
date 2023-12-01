@@ -1,0 +1,126 @@
+{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+body {
+font-family: 'Open Sans', sans-serif;
+font-size: 16px;
+line-height: 1.5;
+background-image: background-image:https://content.rozetka.com.ua/goods/images/big/176310481.jpg;;
+	width:20px ;
+	height:20px ;
+}
+
+header {
+background-color: #fff;
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+padding: 10px 20px;
+}
+
+nav ul {
+list-style: none;
+display: flex;
+}
+
+nav li {
+margin-right: 20px;
+}
+
+nav a {
+text-decoration: none;
+color: #333;
+transition: all 0.3s ease;
+}
+
+nav a:hover {
+color: #000;
+}
+
+
+
+#hero {
+background-color: #f5f5f5;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+align-items: center;
+padding: 50px;
+height: 500px;
+}
+
+.hero-image {
+background-image:https://content.rozetka.com.ua/goods/images/big/176310481.jpg;  
+background-size: cover;
+width: 40%;
+height: 100%;
+}
+
+.hero-text {
+width: 50%;
+margin: 0 auto;
+text-align: center;
+}
+
+.hero-text h2 {
+font-size: 32px;
+margin-bottom: 20px;
+}
+
+.hero-text p {
+font-size: 18px;
+margin-bottom: 30px;
+}
+
+.cta-button {
+display: inline-block;
+padding: 12px 30px;
+background-color: #333;
+color: #fff;
+border-radius: 5px;
+text-decoration: none;
+transition: all 0.3s ease;
+}
+
+.cta-button:hover {
+background-color: #000;
+}
+
+
+
+#about {
+padding: 100px 0;
+}
+
+.container {
+max-width: 960px;
+margin: 0 auto;
+text-align: center;
+}
+
+.container h2 {
+font-size: 32px;
+margin-bottom: 30px;
+}
+
+.container p {
+font-size: 18px;
+margin-bottom: 30px;
+}
+
+
+#animals {
+background-color: #f5f5f5;
+padding: 100px 0;
+}
+
+
+#plants {
+padding: 100px 0;
+}
+
+
+
+
+
+	

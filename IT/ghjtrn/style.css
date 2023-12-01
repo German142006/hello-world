@@ -1,0 +1,31 @@
+#header{ 
+ width: 800px;  
+ height: 0 px;  
+ background-image:;
+ margin-bottom:300 px;  
+ } 
+
+
+
+ #header{ 
+ width: ширина px; 
+ height: высота px; 
+ background-color: #25B33f; 
+ margin-bottom: отступ снизу px; 
+ background-image:
+ } 
+
+
+h1{ 
+ color:#цвет заголовка;
+ font: размер px шрифт;
+ margin-left: отступ слева px; 
+ }
+ h3{
+ width: ширина px; 
+ color: #цвет; 
+ font-style: стиль шрифта;
+ margin: расположение px; 
+ } 
+
+

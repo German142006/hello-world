@@ -1,0 +1,36 @@
+h1{
+	color: white;
+	font-family:Impact, fantasy;
+	text-align: center;
+	font-size: 120px;
+	
+}
+
+
+
+
+body{
+background: -webkit-linear-gradient(45deg, rgb(251, 251, 251), rgb(0, 50, 107) 5%);
+background: -moz-linear-gradient(45deg, rgb(251, 251, 251), rgb(0, 50, 107) 5%);
+background: linear-gradient(45deg, rgb(251, 251, 251), rgb(0, 50, 107) 5%);
+}
+
+img{
+
+	width:1000px ;
+	height:500px ;
+}
+
+p{
+	color: white;
+	font-family:Impact, fantasy;
+	text-align: center;
+	font-size: 120px;
+	margin-left: 110px;
+}
+
+img{
+
+position:relative;
+
+}
